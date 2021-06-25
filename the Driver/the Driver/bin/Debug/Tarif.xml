@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ArrayOfTarif xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tarif>
+    <PriceTarif>4</PriceTarif>
+    <InfoTarif>для Toyota</InfoTarif>
+  </Tarif>
+</ArrayOfTarif>

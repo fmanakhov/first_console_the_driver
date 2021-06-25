@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ArrayOfCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Car>
+    <NameCar>Toyota</NameCar>
+    <ModelCar>AE-86</ModelCar>
+    <ColorCar>Белый</ColorCar>
+    <YearCar>1986</YearCar>
+    <VinCar>2134</VinCar>
+    <PTSCar>4536</PTSCar>
+    <OsagoCar>3465</OsagoCar>
+  </Car>
+</ArrayOfCar>

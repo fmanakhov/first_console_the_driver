@@ -1,0 +1,14 @@
+C:\Users\fmanakhov\Desktop\the Driver\the Driver\bin\Debug\the Driver.exe.config
+C:\Users\fmanakhov\Desktop\the Driver\the Driver\bin\Debug\the Driver.exe
+C:\Users\fmanakhov\Desktop\the Driver\the Driver\bin\Debug\the Driver.pdb
+C:\Users\fmanakhov\Desktop\the Driver\the Driver\obj\Debug\the Driver.csprojAssemblyReference.cache
+C:\Users\fmanakhov\Desktop\the Driver\the Driver\obj\Debug\the Driver.csproj.CoreCompileInputs.cache
+C:\Users\fmanakhov\Desktop\the Driver\the Driver\obj\Debug\the Driver.exe
+C:\Users\fmanakhov\Desktop\the Driver\the Driver\obj\Debug\the Driver.pdb
+D:\fmanakhov\КИУ\Отчёты\ПМ 2 Учебная практика\the Driver\the Driver\bin\Debug\the Driver.exe.config
+D:\fmanakhov\КИУ\Отчёты\ПМ 2 Учебная практика\the Driver\the Driver\bin\Debug\the Driver.exe
+D:\fmanakhov\КИУ\Отчёты\ПМ 2 Учебная практика\the Driver\the Driver\bin\Debug\the Driver.pdb
+D:\fmanakhov\КИУ\Отчёты\ПМ 2 Учебная практика\the Driver\the Driver\obj\Debug\the Driver.csprojAssemblyReference.cache
+D:\fmanakhov\КИУ\Отчёты\ПМ 2 Учебная практика\the Driver\the Driver\obj\Debug\the Driver.csproj.CoreCompileInputs.cache
+D:\fmanakhov\КИУ\Отчёты\ПМ 2 Учебная практика\the Driver\the Driver\obj\Debug\the Driver.exe
+D:\fmanakhov\КИУ\Отчёты\ПМ 2 Учебная практика\the Driver\the Driver\obj\Debug\the Driver.pdb

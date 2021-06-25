@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="the_Driver.Car">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAACAAAACEAAABBAAAIAAAAAAAAAACAIAAAAA=</HashCode>
+      <FileName>Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="the_Driver.InfoEula" BaseTypeListCollapsed="true">
+    <Position X="14.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EULA.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="the_Driver.FirmCar">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAQAAAAACAAAAAAAAAAAAAAAAgEAAAAAAAAA=</HashCode>
+      <FileName>FirmCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="the_Driver.FirmTarif">
+    <Position X="12.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAEAAAAAAAAAAAAAAAAAAAAIAAAAAAAQACAAA=</HashCode>
+      <FileName>FirmTarif.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="the_Driver.FirmUser">
+    <Position X="10.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAADAAAEAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>FirmUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="the_Driver.InfoProgram" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>InfoProgram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="the_Driver.INFOPROGRAM">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>InfoProgram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="the_Driver.Program">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQCACAAAAAAAAAAAAAAAAAAAIAAAAAAAABAQAAAQ=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="the_Driver.Tarif">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACEAAAIAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Tarif.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="the_Driver.User">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAASAAAAACAAAAAEAAAAAAAAAAEAAAEAAAAAAgAAACA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="the_Driver.Ieula">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EULA.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

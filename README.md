@@ -58,14 +58,26 @@
 
 ## Скриншоты
 
-![](RackMultipart20210625-4-1cb3em9_html_ad289c5e515bd47.png)Рисунок 1 – Приветствие
+![](https://github.com/fmanakhov/first_console_the_driver/blob/main/pic/image001.png)
+
+Рисунок 1 – Приветствие
+
+![](https://github.com/fmanakhov/first_console_the_driver/blob/main/pic/image002.png)
 
 Рисунок 2 – Пользовательское соглашение
 
-![](RackMultipart20210625-4-1cb3em9_html_c5bb170850507d26.png) ![](RackMultipart20210625-4-1cb3em9_html_87b97c0c33f57ccd.png)Рисунок 3 – Главная меню
+![](https://github.com/fmanakhov/first_console_the_driver/blob/main/pic/image003.png)
+
+Рисунок 3 – Главная меню
+
+![](https://github.com/fmanakhov/first_console_the_driver/blob/main/pic/image004.png)
 
 Рисунок 4 – Меню «Работа с автомобилями»
 
-![](RackMultipart20210625-4-1cb3em9_html_c38dfd6f61f1cc51.png) ![](RackMultipart20210625-4-1cb3em9_html_3e3d839f6415671f.png)Рисунок 5 - Меню «Работа с пользователями»
+![](https://github.com/fmanakhov/first_console_the_driver/blob/main/pic/image005.png)
+
+Рисунок 5 - Меню «Работа с пользователями»
+
+![](https://github.com/fmanakhov/first_console_the_driver/blob/main/pic/image006.png)
 
 Рисунок 6 – О программе
